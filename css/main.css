@@ -50,7 +50,7 @@ p, a {
   bottom: 100%;
   right: 35px;
   transform: scale(.7);
-  z-index: 2;
+  z-index: 3;
   animation: cherry-drop 500ms forwards linear 2000ms;
 }
 
@@ -58,7 +58,7 @@ p, a {
   bottom: 100%;
   right: 35px;
   transform: scale(.7);
-  z-index: 3;
+  z-index: 2;
   animation: fudge-drop 500ms forwards linear 1500ms;
 }
 
