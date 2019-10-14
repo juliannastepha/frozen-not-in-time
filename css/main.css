@@ -74,7 +74,7 @@ p, a {
   bottom: 100%;
   right: 35px;
   transform: scale(.7);
-  animation: fudge-drop 500ms forwards linear 500ms;
+  animation: mint-drop 500ms forwards linear 500ms;
 }
 
 .cone {
